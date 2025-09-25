@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"e6839ec3-701f-457e-a435-7a14afe5ad8d","ts":"2025-09-24T18:06:25.282-03:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"userId":"225b8d8a-3d8e-4b15-97a9-8a7aa091c434","_email":"kauauwc@gmail.com","_firstName":"Kauã","_lastName":"Magalhães Antunes Campos","globalRole":"global:owner","authenticationMethod":"email"}}
+{"__type":"$$EventMessageConfirm","confirm":"e6839ec3-701f-457e-a435-7a14afe5ad8d","ts":"2025-09-24T18:06:25.384-03:00","source":{"id":"0","name":"eventBus"}}

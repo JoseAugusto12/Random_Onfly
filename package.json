@@ -1,0 +1,25 @@
+{
+  "name": "onfly---random",
+  "version": "1.0.0",
+  "description": "Este repositório contém um nó personalizado para o n8n chamado **Random**, responsável por gerar números aleatórios utilizando a API do [Random.org](https://www.random.org/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KauaCampos/OnFly---Random.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KauaCampos/OnFly---Random/issues"
+  },
+  "homepage": "https://github.com/KauaCampos/OnFly---Random#readme",
+  "dependencies": {
+    "n8n-core": "^1.112.1",
+    "n8n-workflow": "^1.110.0"
+  }
+}
